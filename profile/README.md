@@ -22,4 +22,4 @@ Minecraft 游戏社区计划。始于 2022-11-27。
 
 ---
 
-© Copyright PlutoMC NEXT, All Rights Reserved.
+© 2022 PlutoMC NEXT.
