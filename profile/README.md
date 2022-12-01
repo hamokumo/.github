@@ -1,4 +1,4 @@
-# PlutoMC NEXT
+# 谐云社 Hamokumo
 
 Minecraft 游戏社区计划。始于 2022-11-27。
 
@@ -6,13 +6,13 @@ Minecraft 游戏社区计划。始于 2022-11-27。
 
 ## 如何与我们取得联系
 
-加入 PlutoMC NEXT 服务器 [KOOK](https://www.kookapp.cn/) 群聊：[点击这里](https://kook.top/9NpdOY)。
+加入 谐云社 服务器 [KOOK](https://www.kookapp.cn/) 群聊：[点击这里](https://kook.top/9NpdOY)。
 
 ## 目前我们主导的公开项目
 
-- **[datakoa](https://github.com/PlutoMC-NEXT/datakoa)**：高性能 Minecraft 跨服数据同步系统。
+- **[datakoa](https://github.com/hamokumo/datakoa)**：高性能 Minecraft 跨服数据同步系统。
 
-在未来，这里还会有更多。这些项目是为了 PlutoMC NEXT 服务器而专门打造的，但我们决定将它们开源，免费公开给社区使用。
+在未来，这里还会有更多。这些项目是为了 谐云社 服务器而专门打造的，但我们决定将它们开源，免费公开给社区使用。
 
 ## 加入我们
 
@@ -22,4 +22,4 @@ Minecraft 游戏社区计划。始于 2022-11-27。
 
 ---
 
-© 2022 PlutoMC NEXT.
+© 2022 谐云社 Hamokumo.
