@@ -11,7 +11,7 @@ Minecraft 游戏社区计划。始于 2022-11-27。
 ## 目前我们主导的公开项目
 
 - **[datakoa](https://github.com/hamokumo/datakoa)**：高性能 Minecraft 跨服数据同步系统。
-- **[chunkreducer](https://github.com/hamokumo/chunkreducer)**: 减少区块内容来优化网络占用。
+- **[chunkreducer](https://github.com/hamokumo/chunkreducer)**: 减少区块发送的内容来优化网络占用。
 
 在未来，这里还会有更多。这些项目是为了 谐云社 服务器而专门打造的，但我们决定将它们开源，免费公开给社区使用。
 
